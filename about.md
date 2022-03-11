@@ -1,5 +1,16 @@
 ---
-title: About this website
+title: Ken Booth
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+## About
+Co-founder of Shorpy, Inc., an e-commerce and editorial business that sells and licenses historical images.
+
+More than 25 years of experience running online services, including acting as editor-in-chief of online news for 6 newspapers.
+
+## Websites
+### Shorpy, Inc.
+* [https://shorpy.com](Shorpy)
+* [https://vintagraph.com](Vintagraph)
+* [https://junipergallery.com](Juniper Gallery)
+
+## Writing
