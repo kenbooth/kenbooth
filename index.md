@@ -1,20 +1,7 @@
 ---
 title: Welcome to my website
 feature_image: "https://picsum.photos/1300/400?image=989"
+collectionpage: posts
 feature_text: |
-  ## Hello world
+  ## Ken Booth
 ---
-
-{% for post in paginator.posts %}
-  {% capture currentdate %}{{post.date | date: "%A, %B %d, %Y"}}{% endcapture %}
-  {% if currentdate != thedate %}
-    <h2>{{ currentdate }}</h2>
-    {% capture thedate %}{{currentdate}}{% endcapture %}
-  {% endif %}
-  <p>
-<div class="homepost">
-{% if post.link %}<!-- img style="width:12px;height:16px;margin-bottom:-2px" src="/assets/images/external-link.png" --><a class="homelink" href="{{ post.link }}" target="_new">{{ post.title }}.</a> <span class="homesource">({{ post.source }})</span> {{ post.excerpt| remove: '<p>' | remove: '</p>' }} {% else %}<!-- a class="homelink" href="{{ post.url }}"><strong>{{ post.title }}.</strong></a --><h3><a href="{{ post.url }}">{{ post.title}}</a></h3>{{ post.excerpt }} <div class="homeanchor"><a href="{{ post.url }}"># Posted at {{ post.date | date: "%l:%M %P" }}</a></span>{% endif %}
-</div>
-  </p>
-  <!-- p><a style="homelink" href="{{ post.url }}"><strong>{{ post.title }}.</strong></a> {{ post.excerpt| remove: '<p>' | remove: '</p>' }}<a href="{{ post.url }}"># </a></p -->
-{% endfor %}

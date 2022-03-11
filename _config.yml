@@ -21,7 +21,7 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://kenbooth.net'
 baseurl: ''
 title: 'Ken Booth'
 description: 'Miscellany'
