@@ -5,4 +5,9 @@ feature_text: |
   ## Hello world
 ---
 
-There isn't much going on here yet, but watch this space
+{% for post in paginator.posts %}
+  {% capture currentdate %}{{post.date | date: "%A, %B %d, %Y"}}{% endcapture %}
+  {% if currentdate != thedate %}
+    <h2>{{ currentdate }}</h2>
+    {% capture thedate %}{{currentdate}}{% endcapture %}
+{% endif %}
