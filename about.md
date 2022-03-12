@@ -11,11 +11,11 @@ Before that I worked as a copy editor and page designer at *The Orlando Sentinel
 
 A proud graduate of Auburn University's MBA program and the University of Florida's School of Journalism.
 
-### Websites
-#### Shorpy, Inc.
+#### Websites
+##### Shorpy, Inc.
 * [Shorpy](https://shorpy.com)
 * [Vintagraph](https://vintagraph.com)
 * [Juniper Gallery](https://junipergallery.com)
 
-### Recent Writing
+#### Recent Writing
 * [What are WPA posters?](https://vintagraph.com/pages/what-are-wpa-posters)
