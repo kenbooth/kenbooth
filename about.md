@@ -10,10 +10,10 @@ More than 25 years of experience running online services, including as editor-in
 A proud graduate of Auburn University's MBA program and the University of Florida's School of Journalism.
 
 #### Websites
-##### Shorpy, Inc.
-* [Shorpy](https://shorpy.com)
-* [Vintagraph](https://vintagraph.com)
-* [Juniper Gallery](https://junipergallery.com)
+* [Shorpy](https://shorpy.com) - Historical Photo Archive
+* [Vintagraph](https://vintagraph.com) - Vintage Art Posters
+* [Juniper Gallery](https://junipergallery.com) - The Shorpy Store
+* [Ken Booth](https://kenbooth.net) - This site
 
 #### Recent Writing
 * [What are WPA posters?](https://vintagraph.com/pages/what-are-wpa-posters)
