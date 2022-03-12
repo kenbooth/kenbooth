@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Ken Booth'
 description: "Ken Booth's home page on the internet and library of miscellany."
 permalink: /:title:output_ext
-logo: "https://kenbooth.com/assets/images/kb.png"
+logo: "https://kenbooth.net/assets/images/kb.png"
 
 # Pagination
 paginate: 5
