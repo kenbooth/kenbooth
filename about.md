@@ -15,5 +15,11 @@ A proud graduate of Auburn University's MBA program and the University of Florid
 * [Juniper Gallery](https://junipergallery.com) - The Shorpy Store
 * [Ken Booth](https://kenbooth.net) - This site
 
+#### Social
+* [Twitter](https://twitter.com/kenbooth)
+* [Facebook](https://facebook.com/kenbooth)
+* [Instagram](https://instagram.com/kenbooth2.0)
+* [LinkedIn](https://www.linkedin.com/in/booth/)
+
 #### Recent Writing
 * [What are WPA posters?](https://vintagraph.com/pages/what-are-wpa-posters)
