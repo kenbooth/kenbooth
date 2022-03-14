@@ -1,6 +1,8 @@
 ---
 title: 'A brief review: Daisy Jones and the Six'
 date: 2019-09-26 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 
