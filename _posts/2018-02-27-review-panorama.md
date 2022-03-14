@@ -1,6 +1,8 @@
 ---
 title: 'Review: Panorama'
 date: 2018-02-27 06:00:00 Z
+categories:
+- books
 layout: post
 ---
 
