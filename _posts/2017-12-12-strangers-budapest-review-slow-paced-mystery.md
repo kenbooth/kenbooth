@@ -1,8 +1,10 @@
 ---
 title: 'Strangers in Budapest: A slow-paced mystery'
 date: 2017-12-12 06:00:00 Z
-layout: post
+categories:
+- books
 coverImage: strangers-in-budapest.jpg
+layout: post
 ---
 
 In this slow-paced thriller an American couple starting a business in Budapest meet an elderly man hunting the son-in-law he believes murdered his daughter.
