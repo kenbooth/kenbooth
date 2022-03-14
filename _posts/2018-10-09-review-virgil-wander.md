@@ -1,6 +1,8 @@
 ---
 title: 'Review: Virgil Wander'
 date: 2018-10-09 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 
