@@ -5,7 +5,7 @@ categories:
 - recipe
 ---
 
-After looking at multiple recipes for ginger simple syrup, I have compiled the consensus best practices and recipe.
+After looking at multiple recipes for ginger simple syrup, I have developed and tested the consensus best recipe.
 
 * 1 cup sugar
 * 1 cup water
