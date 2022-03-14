@@ -1,6 +1,8 @@
 ---
 title: 'Review: Once More Unto the Breach'
 date: 2019-06-11 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 
