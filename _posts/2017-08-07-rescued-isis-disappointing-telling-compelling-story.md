@@ -1,6 +1,8 @@
 ---
 title: "'Rescued from ISIS' a disappointing telling of a compelling story"
 date: 2017-08-07 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 

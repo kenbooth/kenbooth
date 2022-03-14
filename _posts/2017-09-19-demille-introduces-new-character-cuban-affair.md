@@ -1,8 +1,10 @@
 ---
 title: DeMille introduces a new character in 'The Cuban Affair'
 date: 2017-09-19 05:00:00 Z
-layout: post
+categories:
+- books
 coverImage: 3g12764u-Edit_500.jpg
+layout: post
 ---
 
 Key West charter boat captain Daniel "Mac" MacCormick is made an offer he has every intention of refusing: Sail his boat to Cuba under the guise of a fishing tournament and recover cash and documents hidden during the revolution. But the lure of a $2 million payday is more than he can resist, and he takes the bait.

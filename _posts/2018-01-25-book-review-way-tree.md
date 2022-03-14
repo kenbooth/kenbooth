@@ -1,6 +1,8 @@
 ---
 title: 'Review: The Which Way Tree'
 date: 2018-01-25 06:00:00 Z
+categories:
+- books
 layout: post
 ---
 

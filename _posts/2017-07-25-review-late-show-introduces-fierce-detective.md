@@ -1,6 +1,8 @@
 ---
 title: 'Review: ''The Late Show'' introduces a fierce detective'
 date: 2017-07-25 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 

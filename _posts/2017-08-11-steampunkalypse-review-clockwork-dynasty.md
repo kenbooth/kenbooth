@@ -1,8 +1,10 @@
 ---
 title: 'Steampunkalypse: A review of ''The Clockwork Dynasty'''
 date: 2017-08-11 05:00:00 Z
-layout: post
+categories:
+- books
 coverImage: clockwork-dynasty.png
+layout: post
 ---
 
 While doing field research and trying to unlock a mystery from her childhood, anthropologist June Stefanov makes a startling discovery: For millennia automatons have lived among us, hiding their presence while trying to understand the nature of their own existence. But their time is drawing to an end and Stefanov may be a key, if unlikely, ally in their survival.
