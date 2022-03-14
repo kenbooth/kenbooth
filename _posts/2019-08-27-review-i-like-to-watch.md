@@ -1,6 +1,8 @@
 ---
 title: 'Review: I Like to Watch'
 date: 2019-08-27 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 
