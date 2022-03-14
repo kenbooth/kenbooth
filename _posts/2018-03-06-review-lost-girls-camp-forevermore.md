@@ -1,6 +1,8 @@
 ---
 title: 'Review: The Lost Girls of Camp Forevermore'
 date: 2018-03-06 06:00:00 Z
+categories:
+- books
 layout: post
 ---
 
