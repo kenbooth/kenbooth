@@ -1,6 +1,8 @@
 ---
 title: Best books of October 2016
 date: 2016-11-02 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 
