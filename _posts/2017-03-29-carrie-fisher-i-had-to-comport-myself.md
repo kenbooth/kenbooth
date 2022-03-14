@@ -1,6 +1,8 @@
 ---
 title: 'Carrie Fisher: I had to comport myself with something approaching dignity'
 date: 2017-03-29 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 
