@@ -1,6 +1,8 @@
 ---
 title: 'Review: The Art of Map Illustration'
 date: 2018-06-04 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 
