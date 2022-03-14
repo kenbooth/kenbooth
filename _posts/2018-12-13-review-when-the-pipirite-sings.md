@@ -1,6 +1,8 @@
 ---
 title: 'Review: When the Pipirite Sings'
 date: 2018-12-13 06:00:00 Z
+categories:
+- books
 layout: post
 ---
 
