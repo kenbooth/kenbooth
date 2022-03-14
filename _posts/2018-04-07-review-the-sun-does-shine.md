@@ -1,6 +1,8 @@
 ---
 title: 'Review: The Sun Does Shine'
 date: 2018-04-07 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 
