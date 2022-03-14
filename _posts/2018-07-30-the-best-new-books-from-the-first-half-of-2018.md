@@ -1,6 +1,8 @@
 ---
 title: The best new books from the first half of 2018
 date: 2018-07-30 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 
