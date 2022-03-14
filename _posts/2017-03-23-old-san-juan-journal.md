@@ -1,6 +1,6 @@
 ---
 title: Old San Juan journal
-date: 2017-03-23 00:00:00 -05:00
+date: 2017-03-23 05:00:00 Z
 layout: post
 coverImage: cathedral-san-juan-bautista.jpg
 ---

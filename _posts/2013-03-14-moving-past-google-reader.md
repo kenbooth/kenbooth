@@ -1,6 +1,6 @@
 ---
 title: Moving past Google Reader
-date: 2013-03-14 00:00:00 -05:00
+date: 2013-03-14 05:00:00 Z
 layout: post
 ---
 

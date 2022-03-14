@@ -1,6 +1,6 @@
 ---
 title: Blogopticon and other links
-date: 2008-06-19 00:00:00 -05:00
+date: 2008-06-19 05:00:00 Z
 layout: post
 ---
 

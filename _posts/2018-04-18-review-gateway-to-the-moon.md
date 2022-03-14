@@ -1,6 +1,8 @@
 ---
 title: 'Review: Gateway to the Moon'
-date: 2018-04-18 00:00:00 -05:00
+date: 2018-04-18 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 

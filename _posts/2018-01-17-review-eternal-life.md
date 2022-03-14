@@ -1,6 +1,6 @@
 ---
 title: 'Review: Eternal Life'
-date: 2018-01-17 00:00:00 -06:00
+date: 2018-01-17 06:00:00 Z
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Best books of October 2016
-date: 2016-11-02 00:00:00 -05:00
+date: 2016-11-02 05:00:00 Z
 layout: post
 ---
 

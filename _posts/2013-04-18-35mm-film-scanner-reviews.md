@@ -1,6 +1,6 @@
 ---
 title: 35mm film scanner reviews
-date: 2013-04-18 00:00:00 -05:00
+date: 2013-04-18 05:00:00 Z
 layout: post
 ---
 

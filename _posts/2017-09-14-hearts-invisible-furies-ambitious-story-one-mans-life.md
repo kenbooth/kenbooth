@@ -1,6 +1,6 @@
 ---
 title: "'The Heart's Invisible Furies' is an ambitious story of one man's life"
-date: 2017-09-14 00:00:00 -05:00
+date: 2017-09-14 05:00:00 Z
 layout: post
 ---
 

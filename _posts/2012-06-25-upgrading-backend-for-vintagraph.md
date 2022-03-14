@@ -1,6 +1,6 @@
 ---
 title: Upgrading backend for Vintagraph
-date: 2012-06-25 00:00:00 -05:00
+date: 2012-06-25 05:00:00 Z
 layout: post
 ---
 

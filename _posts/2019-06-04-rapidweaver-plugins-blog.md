@@ -1,6 +1,6 @@
 ---
 title: RapidWeaver + plugins = blog
-date: 2019-06-04 00:00:00 -05:00
+date: 2019-06-04 05:00:00 Z
 layout: post
 ---
 

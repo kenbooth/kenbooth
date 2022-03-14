@@ -1,6 +1,6 @@
 ---
 title: Debunking conspiracy theories for dummies
-date: 2018-02-23 00:00:00 -06:00
+date: 2018-02-23 06:00:00 Z
 layout: post
 ---
 

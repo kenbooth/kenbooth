@@ -1,6 +1,6 @@
 ---
 title: 'WordCamp to go: Assorted links'
-date: 2010-09-29 00:00:00 -05:00
+date: 2010-09-29 05:00:00 Z
 layout: post
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: 'Review: The Plotters'
-date: 2019-02-26 00:00:00 -06:00
+date: 2019-02-26 06:00:00 Z
+categories:
+- books
 layout: post
 ---
 

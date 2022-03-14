@@ -1,6 +1,8 @@
 ---
 title: 'Review: The Line That Held Us'
-date: 2018-08-27 00:00:00 -05:00
+date: 2018-08-27 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 

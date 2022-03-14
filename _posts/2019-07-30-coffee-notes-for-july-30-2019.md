@@ -1,6 +1,6 @@
 ---
 title: Coffee notes for July 30, 2019
-date: 2019-07-30 00:00:00 -05:00
+date: 2019-07-30 05:00:00 Z
 layout: post
 ---
 

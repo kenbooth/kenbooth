@@ -1,6 +1,8 @@
 ---
 title: 'Review: The Third Hotel'
-date: 2018-08-13 00:00:00 -05:00
+date: 2018-08-13 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 

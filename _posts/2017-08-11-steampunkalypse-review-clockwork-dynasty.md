@@ -1,6 +1,6 @@
 ---
 title: 'Steampunkalypse: A review of ''The Clockwork Dynasty'''
-date: 2017-08-11 00:00:00 -05:00
+date: 2017-08-11 05:00:00 Z
 layout: post
 coverImage: clockwork-dynasty.png
 ---

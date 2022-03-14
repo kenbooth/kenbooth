@@ -1,6 +1,6 @@
 ---
 title: 'What I''m watching: More Than the Rainbow'
-date: 2015-02-13 00:00:00 -06:00
+date: 2015-02-13 06:00:00 Z
 layout: post
 coverImage: more-than-the-rainbow.jpg
 ---

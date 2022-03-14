@@ -1,6 +1,8 @@
 ---
 title: 'Review: Boomer1'
-date: 2018-09-19 00:00:00 -05:00
+date: 2018-09-19 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Using RapidWeaver to rebuild a site
-date: 2019-05-30 00:00:00 -05:00
+date: 2019-05-30 05:00:00 Z
 layout: post
 ---
 

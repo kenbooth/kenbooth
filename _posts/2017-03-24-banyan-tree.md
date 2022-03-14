@@ -1,6 +1,6 @@
 ---
 title: Banyan Tree
-date: 2017-03-24 00:00:00 -05:00
+date: 2017-03-24 05:00:00 Z
 layout: post
 ---
 

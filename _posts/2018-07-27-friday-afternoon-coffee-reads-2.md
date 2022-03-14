@@ -1,6 +1,6 @@
 ---
 title: Friday afternoon coffee reads
-date: 2018-07-27 00:00:00 -05:00
+date: 2018-07-27 05:00:00 Z
 layout: post
 ---
 

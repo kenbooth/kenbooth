@@ -1,6 +1,6 @@
 ---
 title: 'Strangers in Budapest: A slow-paced mystery'
-date: 2017-12-12 00:00:00 -06:00
+date: 2017-12-12 06:00:00 Z
 layout: post
 coverImage: strangers-in-budapest.jpg
 ---

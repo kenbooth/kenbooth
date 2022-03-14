@@ -1,6 +1,6 @@
 ---
 title: The new October cover image
-date: 2016-10-20 00:00:00 -05:00
+date: 2016-10-20 05:00:00 Z
 layout: post
 coverImage: DSC09524-1.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title: Does Uber make cities safer?
-date: 2016-06-24 00:00:00 -05:00
+date: 2016-06-24 05:00:00 Z
 layout: post
 coverImage: FullSizeRender-4-.jpg
 ---

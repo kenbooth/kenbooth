@@ -1,6 +1,8 @@
 ---
 title: Very short review of books
-date: 2018-10-04 00:00:00 -05:00
+date: 2018-10-04 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 

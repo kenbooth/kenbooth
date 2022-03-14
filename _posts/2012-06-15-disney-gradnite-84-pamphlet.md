@@ -1,6 +1,6 @@
 ---
 title: 1984 Disney Gradnite pamphlet
-date: 2012-06-15 00:00:00 -05:00
+date: 2012-06-15 05:00:00 Z
 layout: post
 ---
 

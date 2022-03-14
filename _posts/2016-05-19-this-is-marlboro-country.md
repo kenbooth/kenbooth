@@ -1,6 +1,6 @@
 ---
 title: This is Marlboro country
-date: 2016-05-19 00:00:00 -05:00
+date: 2016-05-19 05:00:00 Z
 layout: post
 coverImage: FullSizeRender.jpg
 ---

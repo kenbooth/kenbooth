@@ -1,6 +1,6 @@
 ---
 title: Deadly storm at Huntsville air show
-date: 2008-06-30 00:00:00 -05:00
+date: 2008-06-30 05:00:00 Z
 layout: post
 ---
 

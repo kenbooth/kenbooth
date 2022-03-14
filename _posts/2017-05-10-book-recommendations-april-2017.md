@@ -1,6 +1,6 @@
 ---
 title: Book recommendations for April 2017
-date: 2017-05-10 00:00:00 -05:00
+date: 2017-05-10 05:00:00 Z
 layout: post
 coverImage: blindness.jpg
 ---

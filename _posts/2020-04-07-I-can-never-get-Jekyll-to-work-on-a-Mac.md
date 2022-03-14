@@ -1,6 +1,6 @@
 ---
 title: Once again I can't get Jekyll to work on a Mac
-date: 2020-04-07 14:04:00 -05:00
+date: 2020-04-07 19:04:00 Z
 layout: post
 excerpt_separator: "<!--more-->"
 ---

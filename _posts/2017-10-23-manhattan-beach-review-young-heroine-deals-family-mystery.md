@@ -1,6 +1,6 @@
 ---
 title: 'Manhattan Beach: A sweeping look at war time New York'
-date: 2017-10-23 00:00:00 -05:00
+date: 2017-10-23 05:00:00 Z
 layout: post
 coverImage: manhattan-beach-art.jpg
 ---

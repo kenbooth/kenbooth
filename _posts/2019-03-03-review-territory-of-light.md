@@ -1,6 +1,8 @@
 ---
 title: 'Review: Territory of Light'
-date: 2019-03-03 00:00:00 -06:00
+date: 2019-03-03 06:00:00 Z
+categories:
+- books
 layout: post
 ---
 

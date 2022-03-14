@@ -1,6 +1,6 @@
 ---
 title: Pacific Grove sunset
-date: 2018-03-20 00:00:00 -05:00
+date: 2018-03-20 05:00:00 Z
 layout: post
 ---
 

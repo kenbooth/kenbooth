@@ -1,6 +1,6 @@
 ---
 title: Apollo 8 book review
-date: 2017-07-12 00:00:00 -05:00
+date: 2017-07-12 05:00:00 Z
 layout: post
 coverImage: apollo-8-header-graphic.jpg
 ---

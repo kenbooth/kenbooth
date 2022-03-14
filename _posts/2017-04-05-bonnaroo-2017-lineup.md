@@ -1,6 +1,6 @@
 ---
 title: Bonnaroo lineup 2017
-date: 2017-04-05 00:00:00 -05:00
+date: 2017-04-05 05:00:00 Z
 layout: post
 coverImage: bonnaroo-2016.jpg
 ---

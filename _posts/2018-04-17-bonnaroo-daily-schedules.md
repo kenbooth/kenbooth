@@ -1,6 +1,6 @@
 ---
 title: 2018 Bonnaroo printable daily schedules
-date: 2018-04-17 00:00:00 -05:00
+date: 2018-04-17 05:00:00 Z
 layout: post
 ---
 

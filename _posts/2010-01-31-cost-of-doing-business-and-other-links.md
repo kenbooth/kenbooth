@@ -1,6 +1,6 @@
 ---
 title: Cost of doing business and other links
-date: 2010-01-31 00:00:00 -06:00
+date: 2010-01-31 06:00:00 Z
 layout: post
 ---
 

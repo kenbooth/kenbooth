@@ -1,6 +1,6 @@
 ---
 title: Jungle Room and other links
-date: 2010-07-22 00:00:00 -05:00
+date: 2010-07-22 05:00:00 Z
 layout: post
 ---
 

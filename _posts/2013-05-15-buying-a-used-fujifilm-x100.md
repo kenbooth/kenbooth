@@ -1,6 +1,6 @@
 ---
 title: Buying a used FujiFilm X100
-date: 2013-05-15 00:00:00 -05:00
+date: 2013-05-15 05:00:00 Z
 layout: post
 ---
 

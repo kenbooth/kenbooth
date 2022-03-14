@@ -1,6 +1,8 @@
 ---
 title: 'Review: The Deserter'
-date: 2019-12-24 00:00:00 -06:00
+date: 2019-12-24 06:00:00 Z
+categories:
+- books
 layout: post
 ---
 

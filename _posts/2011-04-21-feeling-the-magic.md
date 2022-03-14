@@ -1,6 +1,6 @@
 ---
 title: Feeling the Magic
-date: 2011-04-21 00:00:00 -05:00
+date: 2011-04-21 05:00:00 Z
 layout: post
 coverImage: MG_4858-FOR-PRINTS.jpg
 ---

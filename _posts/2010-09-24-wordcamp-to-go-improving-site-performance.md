@@ -1,6 +1,6 @@
 ---
 title: 'WordCamp to go: Improving site performance'
-date: 2010-09-24 00:00:00 -05:00
+date: 2010-09-24 05:00:00 Z
 layout: post
 ---
 

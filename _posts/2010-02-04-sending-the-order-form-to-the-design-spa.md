@@ -1,6 +1,6 @@
 ---
 title: Sending the order form to the design spa
-date: 2010-02-04 00:00:00 -06:00
+date: 2010-02-04 06:00:00 Z
 layout: post
 ---
 

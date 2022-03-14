@@ -1,6 +1,8 @@
 ---
 title: 'Review: Feast Days'
-date: 2018-03-27 00:00:00 -05:00
+date: 2018-03-27 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 

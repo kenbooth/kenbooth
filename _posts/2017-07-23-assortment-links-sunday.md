@@ -1,6 +1,6 @@
 ---
 title: An assortment of links for Sunday
-date: 2017-07-23 00:00:00 -05:00
+date: 2017-07-23 05:00:00 Z
 layout: post
 coverImage: result.png
 ---

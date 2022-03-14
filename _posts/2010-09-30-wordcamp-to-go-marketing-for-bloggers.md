@@ -1,6 +1,6 @@
 ---
 title: 'WordCamp to go: Marketing for bloggers'
-date: 2010-09-30 00:00:00 -05:00
+date: 2010-09-30 05:00:00 Z
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Photographers against COVID-19
-date: 2020-04-24 10:19:00 -05:00
+date: 2020-04-24 15:19:00 Z
 categories:
 - photography
 layout: post

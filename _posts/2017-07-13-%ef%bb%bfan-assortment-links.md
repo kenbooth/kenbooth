@@ -1,6 +1,6 @@
 ---
 title: An assortment of links
-date: 2017-07-13 00:00:00 -05:00
+date: 2017-07-13 05:00:00 Z
 layout: post
 coverImage: 8b38518u.jpg
 ---

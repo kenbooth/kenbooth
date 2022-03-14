@@ -1,6 +1,6 @@
 ---
 title: Bonnaroo 2018 lineup spreadsheet
-date: 2018-02-09 00:00:00 -06:00
+date: 2018-02-09 06:00:00 Z
 layout: post
 ---
 

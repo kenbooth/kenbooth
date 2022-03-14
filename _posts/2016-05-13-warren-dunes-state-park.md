@@ -1,6 +1,6 @@
 ---
 title: Warren Dunes State Park
-date: 2016-05-13 00:00:00 -05:00
+date: 2016-05-13 05:00:00 Z
 layout: post
 coverImage: warren-dunes-state-park.jpg
 ---

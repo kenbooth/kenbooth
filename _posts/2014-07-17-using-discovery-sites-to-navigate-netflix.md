@@ -1,6 +1,6 @@
 ---
 title: Using discovery sites to navigate Netflix
-date: 2014-07-17 00:00:00 -05:00
+date: 2014-07-17 05:00:00 Z
 layout: post
 ---
 

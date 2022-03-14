@@ -1,6 +1,6 @@
 ---
 title: Books for the drinking hour
-date: 2018-01-08 00:00:00 -06:00
+date: 2018-01-08 06:00:00 Z
 layout: post
 coverImage: IMG_4722.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title: How to find your 2019 Shopify Payments 1099-K
-date: 2020-01-30 00:00:00 -06:00
+date: 2020-01-30 06:00:00 Z
 layout: post
 ---
 
