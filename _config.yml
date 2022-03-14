@@ -6,9 +6,7 @@ collections:
     title: Posts
     output: true
     description: My thoughts and ideas
-    feature_text: 'Ken Booth
-
-'
+    feature_text: 'Ken Booth'
     feature_image: https://kenbooth.net/assets/images/DSC00758-1.jpg
   uploads:
     title: Uploads
@@ -25,6 +23,7 @@ defaults:
   values:
     layout: page
 theme: alembic-jekyll-theme
+# master: https://github.com/daviddarnes/alembic
 exclude:
 - README.md
 - Gemfile
