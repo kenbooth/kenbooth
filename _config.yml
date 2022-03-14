@@ -3,10 +3,12 @@ title: Ken Booth
 timezone: UTC
 collections:
   posts:
-    title: Posts
+    title:
     output: true
-    description: My thoughts and ideas
-    feature_text: Ken Booth
+    description:
+    feature_text: |
+      ## Ken Booth
+      Writing and other miscellany
     feature_image: https://kenbooth.net/assets/images/DSC00758-1.jpg
   uploads:
     title: Uploads
