@@ -6,7 +6,7 @@ categories:
 layout: post
 ---
 
-![Drink Beer, Think Beer review](images/41KCrGfaijL-132x200.jpg)
+![Drink Beer, Think Beer review](/assets/images/41KCrGfaijL-132x200.jpg)
 
 As Senior Editor of _Craft Beer and Brewing Magazine_, former editor of _All About Beer Magazine,_ author of a beer cookbook and co-host of a beer podcast, John Holl has spent a lot of time drinking, discussing, writing and thinking about beer. His latest effort, [_Drink Beer, Think Beer: Getting to the Bottom of Every Pint_](https://amzn.to/2nln4eK) is an extended homage to modern brewing and its independent producers.
 
