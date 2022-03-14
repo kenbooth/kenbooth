@@ -1,6 +1,8 @@
 ---
 title: 'Review: Janis'
 date: 2019-12-05 06:00:00 Z
+categories:
+- books
 layout: post
 ---
 
