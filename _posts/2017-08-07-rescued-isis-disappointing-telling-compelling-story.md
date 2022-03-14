@@ -1,10 +1,12 @@
 ---
 title: "'Rescued from ISIS' a disappointing telling of a compelling story"
 date: 2017-08-07 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 
-![Rescued from ISIS book review](images/51SjEHEY5fL._SX331_BO1204203200_-200x300.jpg)In 2013 former soldier Dimitri Bontinck's 18-year-old son, Joe, fell under the sway of a radical Islamic mosque and traveled to Syria from Belgium to take part in that country's civil war. [_Rescued from ISIS_](http://amzn.to/2uiQaRN) (St. Martin's Press, digital galley) recounts his many harrowing trips into Syria to find and ultimately bring his son home.
+![Rescued from ISIS book review](/assets/images/51SjEHEY5fL._SX331_BO1204203200_-200x300.jpg)In 2013 former soldier Dimitri Bontinck's 18-year-old son, Joe, fell under the sway of a radical Islamic mosque and traveled to Syria from Belgium to take part in that country's civil war. [_Rescued from ISIS_](http://amzn.to/2uiQaRN) (St. Martin's Press, digital galley) recounts his many harrowing trips into Syria to find and ultimately bring his son home.
 
 Bontinck has become something of a minor celebrity in his own country and his story has even been retold in [The New Yorker](http://www.newyorker.com/magazine/2015/06/01/journey-to-jihad) and on [CNN](http://www.cnn.com/2014/06/25/world/meast/syria-father-finds-son/index.html). The relevance of Bontinck's story was reinforced last month when a [16-year-old German girl](https://www.theguardian.com/world/2017/jul/19/isis-mosul-missing-german-girl-linda-wenzel) was found fighting alongside the Islamic State in Iraq. At least half of _Rescued from ISIS_ is dedicated to similar stories where youth were recruited through social media and clever marketing, radicalized and sent to Syria or Iraq to fight.
 
