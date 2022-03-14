@@ -1,6 +1,8 @@
 ---
 title: 'Review: Warlight'
 date: 2018-05-02 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 
