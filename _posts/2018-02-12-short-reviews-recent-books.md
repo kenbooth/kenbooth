@@ -1,6 +1,8 @@
 ---
 title: Very short reviews of books
 date: 2018-02-12 06:00:00 Z
+categories:
+- books
 layout: post
 ---
 
