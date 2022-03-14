@@ -5,7 +5,7 @@ categories:
 - shopify
 ---
 
-I recently began the process of refreshing the copywriting on my Shopify-hosted business to help boost traffic and improve conversions. The project includes updating product descriptions, product category pages and creating new landing pages for search engines.
+I recently began the process of refreshing the copywriting on my Shopify-hosted business to boost traffic and improve conversions. The project includes updating product descriptions, product category pages and creating new landing pages for search engines.
 
 Conversion copywriting is an important part of any Shopify store’s success and it’s a good practice to regularly revisit the copy across your site to make sure it is working for you. Your copy must communicate the unique **benefit** of your product to the customer. In addition, you must establish **trust** and underscore the **value** of what you are selling
 
