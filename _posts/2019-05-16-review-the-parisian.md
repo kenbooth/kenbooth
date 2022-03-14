@@ -1,6 +1,8 @@
 ---
 title: 'Review: The Parisian'
 date: 2019-05-16 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 
