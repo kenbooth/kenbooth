@@ -20,6 +20,7 @@ A proud graduate of Auburn University's MBA program and the University of Florid
 * [Facebook](https://facebook.com/kenbooth)
 * [Instagram](https://instagram.com/kenbooth2.0)
 * [LinkedIn](https://www.linkedin.com/in/booth/)
+* [Goodreads](https://www.goodreads.com/user/show/1052801-ken)
 
 #### Recent Writing
 * [What are WPA posters?](https://vintagraph.com/pages/what-are-wpa-posters)
