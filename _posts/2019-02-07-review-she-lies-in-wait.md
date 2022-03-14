@@ -1,6 +1,8 @@
 ---
 title: 'Review: She Lies in Wait'
 date: 2019-02-07 06:00:00 Z
+categories:
+- books
 layout: post
 ---
 
