@@ -1,6 +1,8 @@
 ---
 title: 'Review: Drink Beer, Think Beer'
 date: 2018-08-08 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 
