@@ -9,7 +9,7 @@ The official Bonnaroo lineup 2017 was announced January 11. The June 8-11 festiv
 
 ### Bonnaroo lineup 2017: Music
 
-\[caption id="attachment\_532" align="alignright" width="194"\][![Bonnaroo lineup 2017.](images/roo-lineup-april-800-194x300.jpg)](https://kenbooth.net/wp-content/uploads/2017/04/roo-lineup-april-800.jpg) Click to enlarge.\[/caption\]
+\[caption id="attachment\_532" align="alignright" width="194"\][![Bonnaroo lineup 2017.](/assets/images/roo-lineup-april-800-194x300.jpg)](https://kenbooth.net/wp-content/uploads/2017/04/roo-lineup-april-800.jpg) Click to enlarge.\[/caption\]
 
 - U2
 - Red Hot Chili Peppers

@@ -4,7 +4,7 @@ date: 2017-07-20 05:00:00 Z
 layout: post
 ---
 
-![Amatka book review](images/5170KUr8UfL._SX322_BO1204203200_-195x300.jpg)In Karin Tidbeck's dystopian fantasy [_Amatka_](http://amzn.to/2vwy3Vz) (Knopf Doubleday, digital galley), words have the power to build, heal and destroy. Literally.
+![Amatka book review](/assets/images/5170KUr8UfL._SX322_BO1204203200_-195x300.jpg)In Karin Tidbeck's dystopian fantasy [_Amatka_](http://amzn.to/2vwy3Vz) (Knopf Doubleday, digital galley), words have the power to build, heal and destroy. Literally.
 
 When information assistant Vanja travels to a neighboring colony to collect information about hygiene habits she quickly gets the feeling things aren't well. She notices a world unraveling at its edges, despite the community's best efforts to maintain its structure.
 

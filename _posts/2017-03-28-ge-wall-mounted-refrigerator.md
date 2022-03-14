@@ -6,7 +6,7 @@ layout: post
 
 \[caption id="attachment\_451" align="aligncenter" width="1200"\][![](/assets/images/ge-wall-mounted-refrigerato_grande.jpg)](https://kenbooth.net/ge-wall-mounted-refrigerator/ge-wall-mounted-refrigerato_grande-2/) Ge wall mounted refrigerator.\[/caption\]
 
-\[caption id="attachment\_447" align="alignright" width="240"\][![GE wall-mounted refrigerator](images/wall-mounted-ge-3_medium.jpeg)](https://kenbooth.net/wp-content/uploads/2017/03/wall-mounted-ge-3_medium.jpeg) This photo on [Flickr](http://www.flickr.com/photos/8492055@N08/2844163346/) shows a working unit in a kitchen in Excelsior Springs, MO.\[/caption\]
+\[caption id="attachment\_447" align="alignright" width="240"\][![GE wall-mounted refrigerator](/assets/images/wall-mounted-ge-3_medium.jpeg)](https://kenbooth.net/wp-content/uploads/2017/03/wall-mounted-ge-3_medium.jpeg) This photo on [Flickr](http://www.flickr.com/photos/8492055@N08/2844163346/) shows a working unit in a kitchen in Excelsior Springs, MO.\[/caption\]
 
 I was talking with my mother-in-law in 2012, getting her to reminisce about some of her past homes when she mentioned a house in St. Louis in the late 1950s that had a hanging refrigerator. Stop, back up, "let's talk some more about this refrigerator, Mom." Yes, she says, it was as neat as it sounds but it had a worrisome habit of not working all of the time. This came with the added complication of having to be removed from the wall to be repaired. We'll file this under the category of good in concept, bad in execution. She was most likely describing the GE wall-mounted refrigerator.
 

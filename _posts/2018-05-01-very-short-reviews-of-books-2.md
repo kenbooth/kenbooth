@@ -16,7 +16,7 @@ The original, and surreal, _Spaceman of Bohemia_ is highly recommended. _The Ma
 
 **[The Immortalists](https://amzn.to/2HajYXf):** A family drama that follows the lives of four siblings who, as children, are told by a spiritualist the day they will die. (4/5 stars.)
 
-**![Gateway to the Moon](images/61eWMuiJyqL._SY346_-134x200.jpg)[Gateway to the Moon](https://amzn.to/2qJ2gzc)**:  Mary Morris’ latest novel combines a coming of age story with historical fiction to explore ideas of identity and how history echoes across time. Set in a remote New Mexico town founded by crypto-Jews fleeing the Spanish inquisition. (4/5 stars.) [Read my full review](https://kenbooth.net/review-gateway-to-the-moon/).
+**![Gateway to the Moon](/assets/images/61eWMuiJyqL._SY346_-134x200.jpg)[Gateway to the Moon](https://amzn.to/2qJ2gzc)**:  Mary Morris’ latest novel combines a coming of age story with historical fiction to explore ideas of identity and how history echoes across time. Set in a remote New Mexico town founded by crypto-Jews fleeing the Spanish inquisition. (4/5 stars.) [Read my full review](https://kenbooth.net/review-gateway-to-the-moon/).
 
 [**Final Girls**](https://amzn.to/2qjoZRX): The "final girls" are a loose-knit trio of girls who were all lone survivors of mass murder. Now one of them is dead and the other two form a troubled bond in this psychological thriller. (4/5 stars.)
 

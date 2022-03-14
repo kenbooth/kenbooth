@@ -20,4 +20,4 @@ After you’ve purchased your scanner I recommend purchasing [VueScan](http://ww
 
 For a more indepth look at various scanners on the market and their benefits be sure to read [B&H Photo’s roundup](http://www.bhphotovideo.com/indepth/photography/hands-reviews/35mm-film-scanner-roundup) from last year. I also recommend [Taking Care of Your Personal Archives](http://www.theatlantic.com/technology/archive/2010/11/taking-care-of-your-personal-archives/66425/) from _The Atlantic_, which discusses the handling and digitizing of prized family photos.
 
-![Dog at beach](images/800-0010.jpg)_Florida, 1993. Scanned with Plustek OpticFilm 7600i._
+![Dog at beach](/assets/images/800-0010.jpg)_Florida, 1993. Scanned with Plustek OpticFilm 7600i._

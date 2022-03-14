@@ -18,7 +18,7 @@ A roundup of brief reviews of books I read in August. Looking back it was a good
 
 [**The Line That Held Us:**](https://amzn.to/2wMjKyu) While trespassing to poach a deer, Darl Moody accidentally kills the brother of a notoriously vicious man. What transpires is like a tale from an earlier time ... a brutal frontier story of rash decisions, revenge and salvation. (5/5 stars.) [Read my full review.](https://kenbooth.net/review-the-line-that-held-us/)
 
-![Darling Days book cover](images/51PpbH7s2XL-132x200.jpg)
+![Darling Days book cover](/assets/images/51PpbH7s2XL-132x200.jpg)
 
 [**Darling Days:**](https://amzn.to/2PDXE8g) iO Tillett Wright's memoir of growing up in gritty New York with a temperamental mother prone to bad behavior.  (4/5 stars.)
 

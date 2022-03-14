@@ -4,7 +4,7 @@ date: 2017-09-30 05:00:00 Z
 layout: post
 ---
 
-![Paradox Bound review](images/paradox-bound-132x200.jpg)When a book's description mentions time travel I'm usually hooked. And because I thoroughly enjoyed Peter Clines' _14_ and _The Fold_, I enthusiastically jumped into his latest, [_Paradox Bound_](http://amzn.to/2yGqE7z) (Crown Publishing, digital galley).
+![Paradox Bound review](/assets/images/paradox-bound-132x200.jpg)When a book's description mentions time travel I'm usually hooked. And because I thoroughly enjoyed Peter Clines' _14_ and _The Fold_, I enthusiastically jumped into his latest, [_Paradox Bound_](http://amzn.to/2yGqE7z) (Crown Publishing, digital galley).
 
 This science fiction adventure follows Eli  Teague, a young IT tech who has spent most of his life preparing for the chance that he might again run into a time traveling woman he first encountered as a boy. When she does reappear, he is ready and determined to learn more about her, setting off on a road trip across the country and through history.
 

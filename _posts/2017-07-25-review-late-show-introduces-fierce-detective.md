@@ -4,7 +4,7 @@ date: 2017-07-25 05:00:00 Z
 layout: post
 ---
 
-![the Late Show book review](images/51DN58VWvoL._SX320_BO1204203200_-194x300.jpg)Michael Connelly introduces a new detective in [_The Late Show_](http://amzn.to/2eLqBC7) (Little, Brown and Company, digital galley), a fast moving police procedural that is hard to put down. Renée Ballard works the LAPD overnight shift, responding to everything from burglaries to homicides. Because she has to hand off all of her cases at the end of her shift, she rarely gets to see anything through to completion.
+![the Late Show book review](/assets/images/51DN58VWvoL._SX320_BO1204203200_-194x300.jpg)Michael Connelly introduces a new detective in [_The Late Show_](http://amzn.to/2eLqBC7) (Little, Brown and Company, digital galley), a fast moving police procedural that is hard to put down. Renée Ballard works the LAPD overnight shift, responding to everything from burglaries to homicides. Because she has to hand off all of her cases at the end of her shift, she rarely gets to see anything through to completion.
 
 When Ballard becomes particularly attached to two cases -- the beating of a prostitute and a mass shooting at a nightclub -- she goes against the wishes and backs of her partner and LAPD brass to dig deeper and try to get some closure.
 

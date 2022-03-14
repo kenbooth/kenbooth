@@ -4,7 +4,7 @@ date: 2017-09-14 05:00:00 Z
 layout: post
 ---
 
-![Review of The Heart's Invisible Furies](images/The-Hearts-Invisible-Furies-A-Novel-133x200.jpeg)Cyril Avery is adopted at birth and raised by eccentric and well-to-do parents who make it clear that he is not a real Avery. Nonetheless he perseveres, practically raising himself in their sprawling Dublin mansion. The ambitious novel [_The Heart's Invisible Furies_](http://amzn.to/2f9wFF4) (Hogarth Press, digital galley) follows Avery's entire life from the 1940s to the present day.
+![Review of The Heart's Invisible Furies](/assets/images/The-Hearts-Invisible-Furies-A-Novel-133x200.jpeg)Cyril Avery is adopted at birth and raised by eccentric and well-to-do parents who make it clear that he is not a real Avery. Nonetheless he perseveres, practically raising himself in their sprawling Dublin mansion. The ambitious novel [_The Heart's Invisible Furies_](http://amzn.to/2f9wFF4) (Hogarth Press, digital galley) follows Avery's entire life from the 1940s to the present day.
 
 While away at school Avery comes to the realization that he is gay.  But given the mores of the day, he keeps that fact to himself. The novel begins and ends in Ireland and a large part of the plot deals with the fact that Ireland is unsympathetic, if not overtly cruel, to gay men. One doctor tells him there are not any gay men in Ireland.
 

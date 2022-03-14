@@ -7,7 +7,7 @@ coverImage: 3g12764u-Edit_500.jpg
 
 Key West charter boat captain Daniel "Mac" MacCormick is made an offer he has every intention of refusing: Sail his boat to Cuba under the guise of a fishing tournament and recover cash and documents hidden during the revolution. But the lure of a $2 million payday is more than he can resist, and he takes the bait.
 
-![The Cuban Affair review](images/51ZohO7DvsL._SX329_BO1204203200_-199x300.jpg)
+![The Cuban Affair review](/assets/images/51ZohO7DvsL._SX329_BO1204203200_-199x300.jpg)
 
 [_The Cuban Affair_](http://amzn.to/2jI9Vxr) (Simon & Schuster, digital galley) introduces us to MacCormick, a retired Army infantry officer with combat experience in Afghanistan. With a boat loan he can barely handle, he is the perfect recruit for a dangerous mission dreamed up by anti-Castro groups.
 

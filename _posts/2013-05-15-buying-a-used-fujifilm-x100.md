@@ -12,4 +12,4 @@ The X100 is now selling for about $680 on eBay, but you can find better deals. I
 
 It's a good time to be a digital camera buyer.
 
-![X100 sample photo](images/800-1972.jpg)_Flowers at nursery. Huntsville, Alabama. May 2013. Shot with FujiFilm X100._
+![X100 sample photo](/assets/images/800-1972.jpg)_Flowers at nursery. Huntsville, Alabama. May 2013. Shot with FujiFilm X100._

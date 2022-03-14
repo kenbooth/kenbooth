@@ -11,7 +11,7 @@ During WWII this stretch of coast was incorporated into the [Camp Gordon Johnsto
 
 The beach at Bald Point, Florida, has a long, shallow slope creating gentle waves. At low tide the beach extends a hundred yards or more, creating a playground of tidal pools. At high tide the Gulf waters lap around pines at the shore’s edge and dolphins can be seen feeding no more than fifteen yards off shore. We saw a bald eagle resting on the branch of one water-side tree.
 
-![Bald Point, Florida](images/bald-point-florida-beach.jpg)_Bald Point, Florida._
+![Bald Point, Florida](/assets/images/bald-point-florida-beach.jpg)_Bald Point, Florida._
 
 **Nearby Activities**
 
@@ -19,7 +19,7 @@ This is not Panama City, so the entertainment options, outside of beach and wate
 
 A little further away is [George Griffin Pottery](https://www.facebook.com/pages/Griffin-George-Pottery/166269426723457) in Sopchoppy. Look for the signs and follow a dirt road through the woods to his studio and gallery. You’ll likely be greeted by Griffin’s friendly Golden Retriever. Polaroid snapshots line the walls of his gallery, showing customers who have visited his shop over the years.
 
-![George Griffin Pottery](images/george-griffin-potter.jpg)_George Griffin Pottery. Sopchoppy, Florida. March, 2013._
+![George Griffin Pottery](/assets/images/george-griffin-potter.jpg)_George Griffin Pottery. Sopchoppy, Florida. March, 2013._
 
 About a 30-minute ride down the coast from Bald Point is the [Wildwood Golf Resort](http://www.innatwildwood.com/Wildwood-Golf-Resort-Crawfordville-Florida.shtml). It offers a cheap round of golf on a forgiving course. We played on a weekday for $21.50/person, which included a cart. One person on Foursquare summed it up: “Not really sure how we’re defining resort, but this is not one.”
 

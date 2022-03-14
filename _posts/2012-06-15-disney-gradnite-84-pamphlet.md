@@ -4,7 +4,7 @@ date: 2012-06-15 05:00:00 Z
 layout: post
 ---
 
-\[caption id="attachment\_1919" align="aligncenter" width="1200"\][![Disney Gradnite 1984 pamphlet.](images/1984-grad-night-1.gif)](https://kenbooth.net/disney-gradnite-84-pamphlet/1984-grad-night-1/) Disney Gradnite 1984 pamphlet.\[/caption\]
+\[caption id="attachment\_1919" align="aligncenter" width="1200"\][![Disney Gradnite 1984 pamphlet.](/assets/images/1984-grad-night-1.gif)](https://kenbooth.net/disney-gradnite-84-pamphlet/1984-grad-night-1/) Disney Gradnite 1984 pamphlet.\[/caption\]
 
 I found this 1984 Disney Gradnite pamphlet while decluttering the house.
 
@@ -12,4 +12,4 @@ My wife and I were both students in Florida ant attended Disney's Gradnite '84 a
 
 Performers were Night Ranger, Dazz Band, Dwight Twilley, Exile and "Weird Al" Yankovic.
 
-\[caption id="attachment\_1920" align="aligncenter" width="1200"\][![Inside of Disney Gradnite 1984 pamphlet.](images/1984-grad-night-2.gif)](https://kenbooth.net/disney-gradnite-84-pamphlet/1984-grad-night-2/) Inside of Disney Gradnite 1984 pamphlet.\[/caption\]
+\[caption id="attachment\_1920" align="aligncenter" width="1200"\][![Inside of Disney Gradnite 1984 pamphlet.](/assets/images/1984-grad-night-2.gif)](https://kenbooth.net/disney-gradnite-84-pamphlet/1984-grad-night-2/) Inside of Disney Gradnite 1984 pamphlet.\[/caption\]

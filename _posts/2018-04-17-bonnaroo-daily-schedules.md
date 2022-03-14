@@ -22,16 +22,16 @@ You can go see the [complete schedule on Bonnaroo.com](https://www.bonnaroo.com/
 
 **Thursday Bonnaroo schedule**
 
-\[caption id="attachment\_1585" align="aligncenter" width="300"\][![2018 Bonnaroo Thursday printable schedule](images/2018-bonnaroo-thursday-300x196.png)](https://kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-thursday.png) [Download Thursday](https://i2.wp.com/kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-thursday.png?ssl=1) 2018 Bonnaroo schedule.\[/caption\]
+\[caption id="attachment\_1585" align="aligncenter" width="300"\][![2018 Bonnaroo Thursday printable schedule](/assets/images/2018-bonnaroo-thursday-300x196.png)](https://kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-thursday.png) [Download Thursday](https://i2.wp.com/kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-thursday.png?ssl=1) 2018 Bonnaroo schedule.\[/caption\]
 
 **Friday Bonnaroo schedule**
 
-\[caption id="attachment\_1582" align="aligncenter" width="300"\][![2018 Bonnaroo Friday printable schedule](images/2018-bonnaroo-friday-300x210.png)](https://kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-friday.png) [Download Friday](https://i0.wp.com/kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-friday.png?ssl=1) 2018 Bonnaroo schedule.\[/caption\]
+\[caption id="attachment\_1582" align="aligncenter" width="300"\][![2018 Bonnaroo Friday printable schedule](/assets/images/2018-bonnaroo-friday-300x210.png)](https://kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-friday.png) [Download Friday](https://i0.wp.com/kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-friday.png?ssl=1) 2018 Bonnaroo schedule.\[/caption\]
 
 **Saturday Bonnaroo schedule**
 
-\[caption id="attachment\_1583" align="aligncenter" width="300"\][![2018 Bonnaroo Saturday printable schedule](images/2018-bonnaroo-saturday-300x212.png)](https://kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-saturday.png) [Download Saturday](https://i2.wp.com/kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-saturday.png?ssl=1) 2018 Bonnaroo schedule.\[/caption\]
+\[caption id="attachment\_1583" align="aligncenter" width="300"\][![2018 Bonnaroo Saturday printable schedule](/assets/images/2018-bonnaroo-saturday-300x212.png)](https://kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-saturday.png) [Download Saturday](https://i2.wp.com/kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-saturday.png?ssl=1) 2018 Bonnaroo schedule.\[/caption\]
 
 **Sunday Bonnaroo schedule**
 
-\[caption id="attachment\_1584" align="aligncenter" width="300"\][![2018 Bonnaroo Sunday printable schedule](images/2018-bonnaroo-sunday-300x171.png)](https://kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-sunday.png) [Download Sunday](https://i0.wp.com/kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-sunday.png?ssl=1) 2018 Bonnaroo schedule.\[/caption\]
+\[caption id="attachment\_1584" align="aligncenter" width="300"\][![2018 Bonnaroo Sunday printable schedule](/assets/images/2018-bonnaroo-sunday-300x171.png)](https://kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-sunday.png) [Download Sunday](https://i0.wp.com/kenbooth.net/wp-content/uploads/2018/04/2018-bonnaroo-sunday.png?ssl=1) 2018 Bonnaroo schedule.\[/caption\]

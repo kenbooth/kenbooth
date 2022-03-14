@@ -6,7 +6,7 @@ layout: post
 
 **Mrs. Fletcher**
 
-![Mrs. Fletcher review](images/51vUi8fbGCL._SX329_BO1204203200_-199x300.jpg)If the title reminds you of Mrs. Robinson from _The Graduate_, it's with good reason.  This satire explores love, loss, hookups and cross-generational relationships.
+![Mrs. Fletcher review](/assets/images/51vUi8fbGCL._SX329_BO1204203200_-199x300.jpg)If the title reminds you of Mrs. Robinson from _The Graduate_, it's with good reason.  This satire explores love, loss, hookups and cross-generational relationships.
 
 After divorcee Eve Fletcher's son goes to college she is left trying to reinvent herself and give meaning to her life as an empty nester. She sets her hopes on a community college course on gender and society, but an unexpected text message sends her down a rabbit hole of online porn and thoughts of illicit relationships.
 
@@ -16,7 +16,7 @@ Tom Perrotta's [_Mrs. Fletcher_](http://amzn.to/2wqgqqV) (Scribner, digital gall
 
 **See What I Have Done**
 
-![See What I Have Done review](images/51IRJlV6lvL._SX329_BO1204203200_-199x300.jpg)Something is not right in the Borden house. In [_See What I Have Done_](http://amzn.to/2hGvfCo) (Atlantic Monthly Press, digital galley), first-time novelist Sarah Schmidt reimagines the famous axe-murders of Andrew and Abby Borden. And, of course, daughter Lizzy sits at the center of the tragedy that takes place in this dysfunctional household.
+![See What I Have Done review](/assets/images/51IRJlV6lvL._SX329_BO1204203200_-199x300.jpg)Something is not right in the Borden house. In [_See What I Have Done_](http://amzn.to/2hGvfCo) (Atlantic Monthly Press, digital galley), first-time novelist Sarah Schmidt reimagines the famous axe-murders of Andrew and Abby Borden. And, of course, daughter Lizzy sits at the center of the tragedy that takes place in this dysfunctional household.
 
 The events leading up to the murder unfold slowly as the story shifts forward and backward in time and between narrators to expose troubled relationships and possible motivations for murder. There are not a lot of characters to like in this story, but Schmidt does a good job of bringing the drama to life and tries to answer some of the lingering questions surrounding this historic case.
 
