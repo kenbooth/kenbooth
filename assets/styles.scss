@@ -32,8 +32,8 @@ $monospacetype: (
   cap-height: 0.68
 ) !default;
 
-@media screen and (min-width: 100em)
-.typeset h2, .typeset .beta {
+
+.typeset h2 {
     font-size: 2rem;
   }
 
