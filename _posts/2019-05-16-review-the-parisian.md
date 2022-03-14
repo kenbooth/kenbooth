@@ -6,7 +6,7 @@ categories:
 layout: post
 ---
 
-![The Parisian book cover](assets/images/41hsIx9JM7L-132x200.jpg)
+![The Parisian book cover](/assets/images/41hsIx9JM7L-132x200.jpg)
 
 Midhat Kamal dreams of his bright future as he travels to Paris during WWI to attend university, in _[The Parisian](https://www.goodreads.com/book/show/40718380-the-parisian)_. While there the young Palestinian discovers love, loss and the bitter bite of prejudice.
 
