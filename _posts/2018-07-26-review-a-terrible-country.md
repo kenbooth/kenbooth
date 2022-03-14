@@ -1,6 +1,8 @@
 ---
 title: 'Review: A Terrible Country'
 date: 2018-07-26 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 
