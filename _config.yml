@@ -3,9 +3,8 @@ title: Ken Booth
 timezone: UTC
 collections:
   posts:
-    title:
+    title: Posts
     output: true
-    description:
     feature_text: |
       ## Ken Booth
       A collection of miscellany
