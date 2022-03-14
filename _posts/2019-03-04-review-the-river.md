@@ -1,6 +1,6 @@
 ---
 title: 'Review: The River'
-date: 2019-03-04 00:00:00 -06:00
+date: 2019-03-04 06:00:00 Z
 layout: post
 ---
 

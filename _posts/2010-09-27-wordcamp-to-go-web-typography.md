@@ -1,6 +1,6 @@
 ---
 title: 'WordCamp to go: Web typography'
-date: 2010-09-27 00:00:00 -05:00
+date: 2010-09-27 05:00:00 Z
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: A video tour of André Kertész exhibition in Toronto
-date: 2020-04-21 15:40:00 -05:00
+date: 2020-04-21 20:40:00 Z
 categories:
 - photography
 layout: post

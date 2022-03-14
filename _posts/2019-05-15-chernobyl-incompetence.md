@@ -1,6 +1,6 @@
 ---
 title: Incompetence in Chernobyl
-date: 2019-05-15 00:00:00 -05:00
+date: 2019-05-15 05:00:00 Z
 layout: post
 ---
 

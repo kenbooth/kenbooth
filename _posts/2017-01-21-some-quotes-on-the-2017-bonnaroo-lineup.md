@@ -1,6 +1,6 @@
 ---
 title: Some quotes on the 2017 Bonnaroo lineup
-date: 2017-01-21 00:00:00 -06:00
+date: 2017-01-21 06:00:00 Z
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Hyper-local news blog is up and running
-date: 2010-02-17 00:00:00 -06:00
+date: 2010-02-17 06:00:00 Z
 layout: post
 ---
 

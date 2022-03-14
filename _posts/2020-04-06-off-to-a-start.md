@@ -1,6 +1,6 @@
 ---
 title: Off to a start
-date: 2020-04-06 00:00:00 -05:00
+date: 2020-04-06 05:00:00 Z
 layout: post
 ---
 

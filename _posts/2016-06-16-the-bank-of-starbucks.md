@@ -1,6 +1,6 @@
 ---
 title: The Bank of Starbucks
-date: 2016-06-16 00:00:00 -05:00
+date: 2016-06-16 05:00:00 Z
 layout: post
 ---
 

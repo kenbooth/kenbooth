@@ -1,6 +1,6 @@
 ---
 title: 'Review: In ''Amatka'' words can literally destroy'
-date: 2017-07-20 00:00:00 -05:00
+date: 2017-07-20 05:00:00 Z
 layout: post
 ---
 

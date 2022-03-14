@@ -1,6 +1,6 @@
 ---
 title: Bad behavior can be necessary for politicians
-date: 2017-02-02 00:00:00 -06:00
+date: 2017-02-02 06:00:00 Z
 layout: post
 coverImage: dictators-handbook.jpg
 ---

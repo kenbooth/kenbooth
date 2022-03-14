@@ -1,6 +1,6 @@
 ---
 title: 'Review: The Frolic of the Beasts'
-date: 2018-11-06 00:00:00 -06:00
+date: 2018-11-06 06:00:00 Z
 layout: post
 ---
 

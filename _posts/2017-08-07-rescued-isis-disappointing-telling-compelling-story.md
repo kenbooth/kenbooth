@@ -1,6 +1,6 @@
 ---
 title: "'Rescued from ISIS' a disappointing telling of a compelling story"
-date: 2017-08-07 00:00:00 -05:00
+date: 2017-08-07 05:00:00 Z
 layout: post
 ---
 

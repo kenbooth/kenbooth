@@ -1,6 +1,6 @@
 ---
 title: 'Daily miscellanny: We''ve never had it so good'
-date: 2017-08-08 00:00:00 -05:00
+date: 2017-08-08 05:00:00 Z
 layout: post
 ---
 

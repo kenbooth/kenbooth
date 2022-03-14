@@ -1,6 +1,6 @@
 ---
 title: The new January 2017 cover image
-date: 2017-01-23 00:00:00 -06:00
+date: 2017-01-23 06:00:00 Z
 layout: post
 coverImage: IMG_2828-1.jpg
 ---

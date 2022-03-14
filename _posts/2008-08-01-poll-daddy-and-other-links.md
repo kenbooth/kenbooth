@@ -1,6 +1,6 @@
 ---
 title: Poll daddy and other links
-date: 2008-08-01 00:00:00 -05:00
+date: 2008-08-01 05:00:00 Z
 layout: post
 ---
 

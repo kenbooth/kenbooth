@@ -1,6 +1,6 @@
 ---
 title: The world is changing
-date: 2010-04-22 00:00:00 -05:00
+date: 2010-04-22 05:00:00 Z
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Review: Number One Chinese Restaurant'
-date: 2018-07-16 00:00:00 -05:00
+date: 2018-07-16 05:00:00 Z
 layout: post
 ---
 

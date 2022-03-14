@@ -1,6 +1,6 @@
 ---
 title: Film types for VueScan film scanners
-date: 2014-05-10 00:00:00 -05:00
+date: 2014-05-10 05:00:00 Z
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'UNSUB review: A fast-paced thrill'
-date: 2018-01-04 00:00:00 -06:00
+date: 2018-01-04 06:00:00 Z
 layout: post
 ---
 

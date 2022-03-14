@@ -1,6 +1,6 @@
 ---
 title: William Eggleston is a genius, he agrees
-date: 2016-10-21 00:00:00 -05:00
+date: 2016-10-21 05:00:00 Z
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Daily Miscellany: Is ''buying local'' even possible?'
-date: 2017-08-14 00:00:00 -05:00
+date: 2017-08-14 05:00:00 Z
 layout: post
 ---
 

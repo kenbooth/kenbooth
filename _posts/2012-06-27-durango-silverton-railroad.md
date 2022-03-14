@@ -1,6 +1,6 @@
 ---
 title: Durango & Silverton Railroad
-date: 2012-06-27 00:00:00 -05:00
+date: 2012-06-27 05:00:00 Z
 layout: post
 ---
 

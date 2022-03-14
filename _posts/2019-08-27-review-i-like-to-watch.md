@@ -1,6 +1,6 @@
 ---
 title: 'Review: I Like to Watch'
-date: 2019-08-27 00:00:00 -05:00
+date: 2019-08-27 05:00:00 Z
 layout: post
 ---
 

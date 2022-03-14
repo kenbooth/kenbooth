@@ -1,6 +1,6 @@
 ---
 title: 'Review: Calypso'
-date: 2018-05-19 00:00:00 -05:00
+date: 2018-05-19 05:00:00 Z
 layout: post
 ---
 

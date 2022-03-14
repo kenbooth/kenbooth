@@ -1,6 +1,6 @@
 ---
 title: Project finished before my second cup of coffee
-date: 2016-04-28 00:00:00 -05:00
+date: 2016-04-28 05:00:00 Z
 layout: post
 coverImage: DSC3516.jpg
 ---

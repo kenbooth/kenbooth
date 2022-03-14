@@ -1,6 +1,6 @@
 ---
 title: River of News view
-date: 2010-12-14 00:00:00 -06:00
+date: 2010-12-14 06:00:00 Z
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Review: Lessons From Lucy'
-date: 2018-12-27 00:00:00 -06:00
+date: 2018-12-27 06:00:00 Z
 layout: post
 ---
 

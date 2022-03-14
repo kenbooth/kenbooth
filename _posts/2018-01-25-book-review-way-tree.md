@@ -1,6 +1,6 @@
 ---
 title: 'Review: The Which Way Tree'
-date: 2018-01-25 00:00:00 -06:00
+date: 2018-01-25 06:00:00 Z
 layout: post
 ---
 

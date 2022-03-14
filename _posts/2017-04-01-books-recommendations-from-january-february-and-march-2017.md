@@ -1,6 +1,6 @@
 ---
 title: Book recommendations from January, February and March 2017
-date: 2017-04-01 00:00:00 -05:00
+date: 2017-04-01 05:00:00 Z
 layout: post
 coverImage: octopus-book-cover.jpg
 ---

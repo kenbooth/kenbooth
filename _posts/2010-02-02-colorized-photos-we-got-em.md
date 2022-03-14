@@ -1,6 +1,6 @@
 ---
 title: Colorized photos, we got 'em
-date: 2010-02-02 00:00:00 -06:00
+date: 2010-02-02 06:00:00 Z
 layout: post
 coverImage: 8a04289u1b.jpg
 ---

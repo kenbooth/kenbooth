@@ -1,6 +1,6 @@
 ---
 title: Alternative blog platforms based on Dropbox
-date: 2014-01-20 00:00:00 -06:00
+date: 2014-01-20 06:00:00 Z
 layout: post
 ---
 

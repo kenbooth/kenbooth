@@ -1,6 +1,6 @@
 ---
 title: Friday morning coffee reads
-date: 2018-05-25 00:00:00 -05:00
+date: 2018-05-25 05:00:00 Z
 layout: post
 ---
 

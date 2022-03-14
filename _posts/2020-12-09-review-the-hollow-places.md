@@ -1,6 +1,6 @@
 ---
 title: Review of The Hollow Places
-date: 2020-12-09 08:46:00 -06:00
+date: 2020-12-09 14:46:00 Z
 categories:
 - books
 layout: post

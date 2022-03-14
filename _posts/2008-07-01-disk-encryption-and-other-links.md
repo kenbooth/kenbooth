@@ -1,6 +1,6 @@
 ---
 title: Disk encryption and other links
-date: 2008-07-01 00:00:00 -05:00
+date: 2008-07-01 05:00:00 Z
 layout: post
 ---
 

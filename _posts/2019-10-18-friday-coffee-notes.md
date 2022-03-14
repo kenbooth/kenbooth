@@ -1,6 +1,6 @@
 ---
 title: Friday coffee notes
-date: 2019-10-18 00:00:00 -05:00
+date: 2019-10-18 05:00:00 Z
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Review: A Terrible Country'
-date: 2018-07-26 00:00:00 -05:00
+date: 2018-07-26 05:00:00 Z
 layout: post
 ---
 

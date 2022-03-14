@@ -1,6 +1,6 @@
 ---
 title: 'Review: When the Pipirite Sings'
-date: 2018-12-13 00:00:00 -06:00
+date: 2018-12-13 06:00:00 Z
 layout: post
 ---
 

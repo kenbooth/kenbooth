@@ -1,6 +1,6 @@
 ---
 title: Martin Parr interviews Alec Soth
-date: 2020-04-22 15:33:00 -05:00
+date: 2020-04-22 20:33:00 Z
 categories:
 - photography
 layout: post

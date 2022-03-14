@@ -1,6 +1,6 @@
 ---
 title: Very short reviews of books
-date: 2018-04-02 00:00:00 -05:00
+date: 2018-04-02 05:00:00 Z
 layout: post
 ---
 

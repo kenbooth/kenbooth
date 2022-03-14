@@ -1,6 +1,6 @@
 ---
 title: 'Review: An Orchestra of Minorities'
-date: 2019-02-11 00:00:00 -06:00
+date: 2019-02-11 06:00:00 Z
 layout: post
 ---
 

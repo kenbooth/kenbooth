@@ -1,6 +1,6 @@
 ---
 title: 'Review: World''s Best Whiskeys'
-date: 2019-02-06 00:00:00 -06:00
+date: 2019-02-06 06:00:00 Z
 layout: post
 ---
 

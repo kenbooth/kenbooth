@@ -1,6 +1,6 @@
 ---
 title: A history book for comedy wonks
-date: 2019-05-22 00:00:00 -05:00
+date: 2019-05-22 05:00:00 Z
 layout: post
 ---
 

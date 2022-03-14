@@ -1,6 +1,6 @@
 ---
 title: End of the week links
-date: 2020-04-17 14:24:00 -05:00
+date: 2020-04-17 19:24:00 Z
 layout: post
 ---
 

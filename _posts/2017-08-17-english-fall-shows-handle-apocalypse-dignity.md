@@ -1,6 +1,6 @@
 ---
 title: "'When the English Fall' shows how to handle the apocalypse with dignity"
-date: 2017-08-17 00:00:00 -05:00
+date: 2017-08-17 05:00:00 Z
 layout: post
 coverImage: IMG_4569.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title: Comércio Plaza, Lisbon
-date: 2018-04-03 00:00:00 -05:00
+date: 2018-04-03 05:00:00 Z
 layout: post
 ---
 

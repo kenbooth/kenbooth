@@ -1,6 +1,6 @@
 ---
 title: A hike to the Walls of Jericho
-date: 2017-09-11 00:00:00 -05:00
+date: 2017-09-11 05:00:00 Z
 layout: post
 ---
 

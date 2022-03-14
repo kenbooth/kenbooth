@@ -1,6 +1,6 @@
 ---
 title: Tuesday journal
-date: 2019-06-11 00:00:00 -05:00
+date: 2019-06-11 05:00:00 Z
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: How to word graduation announcements for commencements canceled due to COVID-19
-date: 2020-03-27 00:00:00 -05:00
+date: 2020-03-27 05:00:00 Z
 layout: post
 ---
 

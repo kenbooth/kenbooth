@@ -1,6 +1,6 @@
 ---
 title: GE wall-mounted refrigerator history
-date: 2017-03-28 00:00:00 -05:00
+date: 2017-03-28 05:00:00 Z
 layout: post
 ---
 

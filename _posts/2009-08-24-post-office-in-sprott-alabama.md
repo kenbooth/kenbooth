@@ -1,6 +1,6 @@
 ---
 title: Post Office in Sprott, Alabama
-date: 2009-08-24 00:00:00 -05:00
+date: 2009-08-24 05:00:00 Z
 layout: post
 coverImage: 00243u_1_0.jpg
 ---

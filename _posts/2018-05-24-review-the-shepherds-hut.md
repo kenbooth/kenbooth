@@ -1,6 +1,6 @@
 ---
 title: 'Review: The Shepherd''s Hut'
-date: 2018-05-24 00:00:00 -05:00
+date: 2018-05-24 05:00:00 Z
 layout: post
 ---
 

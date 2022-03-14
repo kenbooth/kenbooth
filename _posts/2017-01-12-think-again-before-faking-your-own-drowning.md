@@ -1,6 +1,6 @@
 ---
 title: Think again before faking your own drowning
-date: 2017-01-12 00:00:00 -06:00
+date: 2017-01-12 06:00:00 Z
 layout: post
 coverImage: IMG_2796.jpg
 ---

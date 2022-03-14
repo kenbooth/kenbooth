@@ -1,6 +1,6 @@
 ---
 title: Madison Pike upgrade
-date: 2011-08-23 00:00:00 -05:00
+date: 2011-08-23 05:00:00 Z
 layout: post
 ---
 

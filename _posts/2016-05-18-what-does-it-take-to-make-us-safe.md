@@ -1,6 +1,6 @@
 ---
 title: What does it take to make us safe?
-date: 2016-05-18 00:00:00 -05:00
+date: 2016-05-18 05:00:00 Z
 layout: post
 ---
 

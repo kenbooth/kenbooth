@@ -1,6 +1,6 @@
 ---
 title: Bonnaroo journal 2016
-date: 2016-06-17 00:00:00 -05:00
+date: 2016-06-17 05:00:00 Z
 layout: post
 coverImage: DSC08707-2.jpg
 ---

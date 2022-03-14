@@ -1,6 +1,6 @@
 ---
 title: My new cover photo is Waikiki Beach
-date: 2014-05-11 00:00:00 -05:00
+date: 2014-05-11 05:00:00 Z
 layout: post
 coverImage: d3c2ff605682d29acc896cfe8979e70e.jpg
 ---

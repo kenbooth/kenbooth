@@ -1,6 +1,6 @@
 ---
 title: This Florida drive-in is the only U.S. theater showing new movies
-date: 2020-04-19 08:39:00 -05:00
+date: 2020-04-19 13:39:00 Z
 layout: post
 link: https://www.news4jax.com/news/local/2020/04/18/report-florida-drive-in-is-the-only-us-theater-showing-new-movies/
 source: News4Jax

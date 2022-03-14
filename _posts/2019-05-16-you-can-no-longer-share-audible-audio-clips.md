@@ -1,6 +1,6 @@
 ---
 title: You can no longer share Audible audio clips
-date: 2019-05-16 00:00:00 -05:00
+date: 2019-05-16 05:00:00 Z
 layout: post
 ---
 

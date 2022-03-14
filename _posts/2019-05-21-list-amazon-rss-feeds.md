@@ -1,6 +1,6 @@
 ---
 title: A list of Amazon RSS feeds for 2019
-date: 2019-05-21 00:00:00 -05:00
+date: 2019-05-21 05:00:00 Z
 layout: post
 ---
 

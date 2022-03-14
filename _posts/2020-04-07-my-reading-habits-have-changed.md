@@ -1,6 +1,6 @@
 ---
 title: My reading habits have completely changed
-date: 2020-04-07 10:06:00 -05:00
+date: 2020-04-07 15:06:00 Z
 layout: post
 ---
 

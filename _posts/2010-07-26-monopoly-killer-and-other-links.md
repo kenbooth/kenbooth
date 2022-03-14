@@ -1,6 +1,6 @@
 ---
 title: Monopoly killer and other links
-date: 2010-07-26 00:00:00 -05:00
+date: 2010-07-26 05:00:00 Z
 layout: post
 ---
 
