@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "alembic";
-
 // Text colours
 $headingColour: #242e2b !default;
 $bodyColour: #384743 !default;
@@ -33,3 +31,5 @@ $monospacetype: (
   regular: 400,
   cap-height: 0.68
 ) !default;
+
+@import "alembic";
