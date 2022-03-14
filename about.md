@@ -23,3 +23,9 @@ A proud graduate of Auburn University's MBA program and the University of Florid
 
 #### Recent Writing
 * [What are WPA posters?](https://vintagraph.com/pages/what-are-wpa-posters)
+
+#### Book Reviews
+I've been writing book reviews since I started at *The Orlando Sentinel*.
+* [Janis: Her Life and music](https://kenbooth.net/janis-review.html)
+* [The Sun Does Shine](https://kenbooth.net/review-the-sun-does-shine)
+* [More book reviews](https://kenbooth.net/categories#books)
