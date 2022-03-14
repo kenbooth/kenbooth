@@ -1,6 +1,8 @@
 ---
 title: 'Review: The Warehouse'
 date: 2019-09-11 05:00:00 Z
+categories:
+- books
 layout: post
 ---
 
