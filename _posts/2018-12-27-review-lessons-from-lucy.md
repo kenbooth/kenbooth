@@ -1,6 +1,8 @@
 ---
 title: 'Review: Lessons From Lucy'
 date: 2018-12-27 06:00:00 Z
+categories:
+- books
 layout: post
 ---
 

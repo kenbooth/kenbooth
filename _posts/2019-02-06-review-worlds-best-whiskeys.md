@@ -1,6 +1,8 @@
 ---
 title: 'Review: World''s Best Whiskeys'
 date: 2019-02-06 06:00:00 Z
+categories:
+- books
 layout: post
 ---
 
