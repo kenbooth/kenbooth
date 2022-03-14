@@ -1,5 +1,5 @@
 ---
-title: Copywriting for your Shopify store
+title: Copywriting tips for your Shopify store
 date: 2022-03-14 23:26:00 Z
 categories:
 - shopify
