@@ -32,6 +32,11 @@ $monospacetype: (
   cap-height: 0.68
 ) !default;
 
+@media screen and (min-width: 100em)
+.typeset h2, .typeset .beta {
+    font-size: 2rem;
+  }
+
 .feature h2 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
