@@ -1,13 +1,15 @@
 ---
 title: The Princess Diarist only partly delivers on the title
 date: 2017-03-30 05:00:00 Z
-layout: post
+categories:
+- books
 coverImage: IMG_3444.jpg
+layout: post
 ---
 
 I was warned right in the title that Carrie Fisher would share her diary. On that she doesn't disappoint. But the title kind of promises details about life on the set of the first Star Wars movie. On this _The Princess Diarist_ falls short.
 
-[![The Princess Diarist](images/26025989.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/26025989.jpg)
+[![The Princess Diarist](/assets/images/26025989.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/26025989.jpg)
 
 [**The Princess Diarist**](http://amzn.to/2ofmr8R) by Carrie Fisher ★★★
 
