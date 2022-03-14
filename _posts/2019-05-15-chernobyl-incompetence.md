@@ -6,7 +6,7 @@ categories:
 layout: post
 ---
 
-![Midnight in Chernobyl book cover](images/midnight-in-chernobyl-132x200.jpg)
+![Midnight in Chernobyl book cover](/assets/images/midnight-in-chernobyl-132x200.jpg)
 
 I'm about a third of the way into _[Midnight in Chernobyl](https://www.goodreads.com/book/show/40538681-midnight-in-chernobyl)_, an account of the 1986 nuclear accident. It's shocking to read about the number of institutional and design errors that led to the event and then about the missteps in reacting to it.
 
