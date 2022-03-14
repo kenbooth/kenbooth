@@ -1,6 +1,8 @@
 ---
 title: 'Review: An Orchestra of Minorities'
 date: 2019-02-11 06:00:00 Z
+categories:
+- books
 layout: post
 ---
 
