@@ -44,7 +44,7 @@ baseurl: ''
 description: Ken Booth's home page on the internet and library of miscellany.
 permalink: "/:title:output_ext"
 logo: https://kenbooth.net/assets/images/kb.png
-paginate: 5
+paginate: 10
 paginate_path: "/page:num"
 navigation_header:
 - title: Home
