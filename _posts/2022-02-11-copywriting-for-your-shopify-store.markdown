@@ -1,11 +1,11 @@
 ---
 title: Copywriting tips for your Shopify store
-date: 2022-03-14 23:26:00 Z
+date: 2022-02-11 14:26:00 Z
 categories:
 - shopify
 ---
 
-I recently began the process of refreshing the copywriting on my Shopify-hosted business to help boost traffic and improve conversions. The project includes updating product descriptions, product category pages and creating new landing pages for search engines.
+I recently began the process of refreshing the copywriting on my Shopify-hosted business to boost traffic and improve conversions. The project includes updating product descriptions, product category pages and creating new landing pages for search engines.
 
 Conversion copywriting is an important part of any Shopify store’s success and it’s a good practice to regularly revisit the copy across your site to make sure it is working for you. Your copy must communicate the unique **benefit** of your product to the customer. In addition, you must establish **trust** and underscore the **value** of what you are selling
 
@@ -15,13 +15,13 @@ But what should you say about your product? You want to include the basics in yo
 
 A good exercise is to sit down with a pad of paper and list the attributes of your product that fall under each of these categories:
 
-#### Benefit
+##### Benefit
 
 Be specific when thinking about the benefits of your product. Vague statements like “best quality” or “large volume” don’t tell the customer what’s unique about your product. What makes it the best? And what specifically constitutes a “large” product. List the distinct characteristics that make your product special.
 
 This is where you get to be the salesperson. Tell a story, and let the customer know why they should be interested in your product. Rather than saying, "Our dish washer has new eco-friendly technology," say, “Our new eco-friendly technology uses 30% less water, reduces the amount of time it takes to wash dishes and saves you money on your electric bill." 
 
-#### Trust
+##### Trust
 
 Immediately upon entering your store your customer is subconsciously making a trust decision. They are being asked to part with their money and they are looking for signs that your store can be trusted and the product they receive will match the description.
 
@@ -29,7 +29,7 @@ When considering trust, anticipate and answer any concerns your customer might h
 
 Buyers want to be confident that the product they receive will be as described in your store. To establish trust, don't try to be something you're not. Be honest with your customers about your product’s features. They'll be able to sniff out any dishonest claims that try to oversell your product. 
 
-#### Value
+##### Value
 
 As a customer reads your product description they will be making a value decision. Is your product worth what the customer is being asked to pay? To establish value, tell your customers all they might need to know about your product and how it stacks up against similar products elsewhere. Let people know what materials your product is made of and how that benefits them. Include exact dimensions where appropriate and let them know that your photos are accurate.
 
