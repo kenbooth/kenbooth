@@ -7,7 +7,7 @@ categories:
 
 We're still early in the New Year when people are actively pursuing resolutions. "Reading more" often shows up on lists and I thought I'd share a proven method for reading 100 books a year. There are just three steps, and if you follow them you'll be well on your way.
 
-### How to read 100 books a year
+#### How to read 100 books a year
 
 1. Always be reading a printed book and listening to an audiobook.
 2. Read at least 50 pages every day in the printed book and listen to the audiobook whenever you can (doing chores, driving, walking).
