@@ -1,5 +1,5 @@
 ---
-title: The consensus top albums of 2021
+title: Consensus top albums of 2021
 date: 2021-12-15 13:28:00 Z
 ---
 
