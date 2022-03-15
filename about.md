@@ -7,6 +7,8 @@ Co-founder of Shorpy, Inc., an e-commerce business that sells and licenses histo
 
 More than 25 years of experience running online services, including as editor-in-chief of online news for 6 newspapers, and helping manage the launch of *The Orlando Sentinel* on the Web. Before that I worked as a copy editor and page designer at *The Orlando Sentinel*.
 
+I spend my work days generating SEO-driven copy, handling fiscal duties and managing customer service.
+
 A proud graduate of Auburn University's MBA program and the University of Florida's School of Journalism.
 
 #### Websites
