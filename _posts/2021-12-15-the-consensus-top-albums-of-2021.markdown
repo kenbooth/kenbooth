@@ -7,13 +7,13 @@ Several publications have posted their lists of the top 50 albums of 2021. There
 
 Fifty-four albums appear on more than one list. But only five albums appeared on all of the lists. They are, in alphabetical order:
 
-* Japanese Breakfast, **Jubilee**
-* Jazmine Sullivan, **Heaux Tales**
-* Little Simz, **Sometimes I Might Be Introvert**
-* Turnstile, **Glow On**
-* Tyler, the Creator, **Call Me If You Get Lost**
+* Japanese Breakfast, *Jubilee*
+* Jazmine Sullivan, *Heaux Tales*
+* Little Simz, *Sometimes I Might Be Introvert*
+* Turnstile, *Glow On*
+* Tyler, the Creator, *Call Me If You Get Lost*
 
-Four albums appear on four of the lists, while 18 albums appear on three of the lists. Jazmine Sullivan's **Heaux Tales** and Olivia Rodrigo's **Sour** were each the top picks on two of the lists. But while **Heaux Tales** appears somewhere on all five lists, **Sour** doesn't appear at all on two of the lists.
+Four albums appear on four of the lists, while 18 albums appear on three of the lists. Jazmine Sullivan's *Heaux Tales* and Olivia Rodrigo's *Sour* were each the top picks on two of the lists. But while *Heaux Tales* appears somewhere on all five lists, *Sour* doesn't appear at all on two of the lists.
 
 All of this to say there is a great deal of variety about what people (even professional reviewers) consider the best albums of 2021. There is some limited consensus about a few albums, but not very much. Which is fine. I never much cared for music as a contest. Some albums I like very much appear at the bottom of these lists and the albums I most enjoyed this year aren't on any of the lists. So who is the winner here? You, the music listener, because these lists are great discovery tools for dipping into some albums you might have overlooked.
 
