@@ -39,7 +39,9 @@ Your descriptions should reflect your store's personality. You can be cute or fu
 
 ### Search Engine Optimization
 
- Always keep SEO in mind. The first few sentences of your product description may appear in search engine results and you need to be clear about what you are selling and its benefit. Be sure to include important search keywords in your descriptions.
+Always keep SEO in mind. You should know what keywords you are trying to rank for on each product page. Keep in mind the first few sentences of your product description are important and may appear in search engine results.
+
+You need to be clear about what you are selling and its benefit and be sure to include important keywords throughout your descriptions.
 
 ### Some final tips:
 
