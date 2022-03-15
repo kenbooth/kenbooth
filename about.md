@@ -25,7 +25,7 @@ A proud graduate of Auburn University's MBA program and the University of Florid
 #### Recent Writing
 * [What are WPA posters?](https://vintagraph.com/pages/what-are-wpa-posters)
 * [Copywriting tips for your Shopify store](https://kenbooth.net/copywriting-for-your-shopify-store.html)
-* [How to read 100 books a year]()
+* [How to read 100 books a year](https://kenbooth.net/how-to-read-100-books-a-year.html)
 
 #### Book Reviews
 I've been writing book reviews for more than 30 years, since I started at *The Orlando Sentinel*.
