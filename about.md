@@ -26,6 +26,7 @@ A proud graduate of Auburn University's MBA program and the University of Florid
 
 #### Recent Writing
 * [What are WPA posters?](https://vintagraph.com/pages/what-are-wpa-posters)
+* [What is a propaganda poster?](https://vintagraph.com/pages/what-is-a-propaganda-poster)
 * [Ukraine war propaganda posters](https://vintagraph.com/blogs/news/ukraine-war-propaganda-posters)
 * [Copywriting tips for your Shopify store](https://kenbooth.net/copywriting-for-your-shopify-store.html)
 * [How to read 100 books a year](https://kenbooth.net/how-to-read-100-books-a-year.html)
