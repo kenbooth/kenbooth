@@ -18,6 +18,7 @@ A proud graduate of Auburn University's MBA program and the University of Florid
 * [Ken Booth](https://kenbooth.net) - This site
 
 #### Social
+* [Medium](https://medium.com/@kenbooth)
 * [Twitter](https://twitter.com/kenbooth)
 * [Facebook](https://facebook.com/kenbooth)
 * [Instagram](https://instagram.com/kenbooth2.0)
