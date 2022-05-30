@@ -9,6 +9,8 @@ tags:
 
 At the beginning of this year I scoured the best of 2021 non-fiction lists and began working reading several books that seemed appealing. Not all of them are worth recommending (and are not mentioned here), but all of the following are worth your time.
 
+![books-may-2022.png](/uploads/books-may-2022.png)
+
 **[The Book of Hope: A Survival Guide for Trying Times](https://www.goodreads.com/book/show/56268863-the-book-of-hope)**, by Jane Goodall (October 2021,Celadon Books). In this conversation between naturalist Goodall and author Doug Abrams a wide range of topics are covered, all related to Goodall’s hope for the future. Goodall tells stories from her life and if you’ve never read anything by her this is a good introduction. Goodall maintains an enthusiastic optimism for the future of humanity.
 
 **[Taste: My Life Through Food](https://www.goodreads.com/book/show/55360284-taste)**, by Stanley Tucci (October 2021, Gallery Books). In this gastronomic memoir, actor Tucci recounts first learning the wonders of the table while growing up in an Italian-American family that took food very seriously. He goes on to share stories about his dining experiences and what food means to the quality of his life. Recommended for anyone who, like Tucci, loves to eat.
