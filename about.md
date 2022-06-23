@@ -20,7 +20,7 @@ A proud graduate of Auburn University's MBA program and the University of Florid
 * [Ken Booth](https://kenbooth.net) - This site
 
 #### Side Projects
-* [Town Madison Development Projects](https://datastudio.google.com/u/0/reporting/1cf39dba-6811-458b-8101-55a126e8c9b3/page/olaTC?s=qXzuYHUBxvo)
+* [Town Madison Development Projects](https://datastudio.google.com/u/0/reporting/1cf39dba-6811-458b-8101-55a126e8c9b3/page/olaTC?s=qXzuYHUBxvo) - Updates on Madison, Alabama mixed use development
 
 #### Social
 * [Medium](https://medium.com/@kenbooth)
