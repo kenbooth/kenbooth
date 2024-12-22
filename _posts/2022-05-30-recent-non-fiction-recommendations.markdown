@@ -7,7 +7,7 @@ tags:
 - books
 ---
 
-At the beginning of this year I scoured the best of 2021 non-fiction lists and began working reading several books that seemed appealing. Not all of them are worth recommending (and are not mentioned here), but all of the following are worth your time.
+At the beginning of this year I scoured the best of 2021 non-fiction lists and began reading several books that seemed appealing. Not all of them are worth recommending (and are not mentioned here), but all of the following are worth your time.
 
 ![books-may-2022.png](/uploads/books-may-2022.png)
 
